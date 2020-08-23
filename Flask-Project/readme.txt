@@ -9,3 +9,7 @@ Techincal implementation : Picking up videos from the directory, running object 
 Data Flow : Video Files --> Inference Model --> Txt Files with bounding boxes and timestamp --> Store into Database --> Analyst pulls data --> Display stats on dashboard
 
 
+How to run:
+To run the system. Go to Flaskproject/containers in bash terminal and type docker-compose up.
+Access the system web application by visiting http://localhost:5000/
+Specify the directory of the videos to run the retail_AI system. The backend will run all the modules of the machine learning pipeline, store the model results in database and return the statistics on front end webpage.
