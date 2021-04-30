@@ -121,7 +121,7 @@ QtPy==1.7.0
 requests==2.21.0
 requests-oauthlib==1.3.0
 rope==0.14.0
-rsa==4.0
+rsa==4.7
 ruamel-yaml==0.15.87
 seaborn
 Send2Trash==1.5.0
