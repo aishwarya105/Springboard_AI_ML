@@ -15,7 +15,7 @@ bleach==3.1.4
 blinker==1.4
 boto==2.49.0
 cachetools==3.1.1
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 cloudpickle==0.8.1
